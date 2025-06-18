@@ -9,23 +9,24 @@ This microservice manages a real estate cart system, allowing users to add, upda
 ✅ Delete property from cart  
 ✅ View all properties in cart  
 
-## Project Structure (Key Components)
+## 🏗️ Project Structure (Key Components)
+```plaintext
 src/
 ├── main/
-│ ├── java/com/example/RealEstate/
-│ │ ├── controllers/
-│ │ │ └── RealEstateController.java
-│ │ ├── dto/
-│ │ │ └── RealEstateCartRequest.java
-│ │ ├── entities/
-│ │ │ └── RealEstateCart.java
-│ │ ├── repo/
-│ │ │ └── RealEstateRepo.java
-│ │ ├── services/
-│ │ │ ├── RealEstateService.java
-│ │ │ └── RealEstateServiceImpl.java
-│ ├── resources/
-│ │ └── application.properties
+│   ├── java/com/example/RealEstate/
+│   │   ├── controllers/
+│   │   │   └── RealEstateController.java
+│   │   ├── dto/
+│   │   │   └── RealEstateCartRequest.java
+│   │   ├── entities/
+│   │   │   └── RealEstateCart.java
+│   │   ├── repo/
+│   │   │   └── RealEstateRepo.java
+│   │   ├── services/
+│   │   │   ├── RealEstateService.java
+│   │   │   └── RealEstateServiceImpl.java
+│   ├── resources/
+│   │   └── application.properties
 
 ---
 
