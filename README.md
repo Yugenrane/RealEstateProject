@@ -27,6 +27,7 @@ src/
 │   │   │   └── RealEstateServiceImpl.java
 │   ├── resources/
 │   │   └── application.properties
+```
 
 ---
 
